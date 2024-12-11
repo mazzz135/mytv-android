@@ -18,7 +18,7 @@ object Constants {
      * IPTV源地址
      */
     const val IPTV_SOURCE_URL =
-        "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u"
+        "http://121.36.224.76:35455/migu.m3u?userid=916365063&usertoken=nlps4F0F7CD8E14F328393D1"
 
     /**
      * IPTV源缓存时间（毫秒）
@@ -39,7 +39,7 @@ object Constants {
      * Git最新版本信息
      */
     const val GIT_RELEASE_LATEST_URL =
-        "https://api.github.com/repos/yaoxieyoulei/mytv-android/releases/latest"
+        ""
 
     /**
      * GitHub加速代理地址
